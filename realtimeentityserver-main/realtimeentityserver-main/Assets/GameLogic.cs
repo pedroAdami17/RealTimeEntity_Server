@@ -96,10 +96,10 @@ public class BalloonInfo
 
     public int id;
 
-    public BalloonInfo(float percentX, float percentY, int id)
+    public BalloonInfo(float PercentX, float PercentY, int ID)
     {
-        id = id;
-        percentX = percentX;
-        percentY = percentY;
+        id = ID;
+        percentX = PercentX;
+        percentY = PercentY;
     }
 }
